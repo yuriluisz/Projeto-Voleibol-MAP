@@ -14,16 +14,23 @@ body{
 }
 #centro{
     display: flex;
-    justify-content: space-evenly;
+    justify-content: center;
     align-items: center;
+}
+#msgCentral1{
+    width: 1200px;
+    height: 200px;
+    background-color: rgb(255, 255, 255);
+    color: black;
+    border-radius: 10px;
 }
 #inicioCentral{
     display: flex;
     justify-content: center;
-    align-items: center;
+    align-items: column;
     text-align: center;
     width: 1800px;
-    height: 400px;
+    height: 3000px;
     background-color: rgba(1,70,174,255);
     color: white;
 

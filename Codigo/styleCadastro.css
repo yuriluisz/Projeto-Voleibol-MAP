@@ -28,19 +28,19 @@ body{
     background-color: rgba(1,70,174,255);
     color: white;
 }
-#senhaUsuario{
+#senhaCadastro{
     border: blue;
     background-color: rgb(255, 255, 255);
     border-radius: 15px;
     padding: 5px;
 }
-#loginUsuario{
+#emailCadastro{
     border: blue;
     background-color: rgb(255, 255, 255);
     border-radius: 15px;
     padding: 5px;
 }
-#usuarioAcessar{
+#btnCadastro{
     border: solid 1px blue;
     padding-left: 30px;
     padding-right: 30px;
@@ -49,7 +49,7 @@ body{
     background-color: rgb(255, 255, 255);
     transition: background-color 0.5s ease, color 0.5s ease, transform 0.5s ease;
 }
-#usuarioAcessar:hover{
+#btnCadastro:hover{
     background-color: blue;
     color: white;
     transform: scale(1.2)

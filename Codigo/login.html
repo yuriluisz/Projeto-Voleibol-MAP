@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>voleibol map</title>
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="styleLogin.css">
     <script src="script.js"></script>
 </head>
 <body>
@@ -22,6 +22,9 @@
         <div id="login">
             <div>
                 <h1>Login</h1>
+                <div id="erroUsuario">
+                    <h3></h3>
+                </div>
                 <div id="email">
                     <h3>Email:</h3>
                     <input type="email" id="loginUsuario" placeholder="Email">
@@ -31,7 +34,7 @@
                     <input type="password" id="senhaUsuario" placeholder="Senha">
                 </div>
                 <div id="enter">
-                    <button id="usuarioAcessar" onclick="ObterValores">Entrar</button>
+                    <button id="usuarioAcessar">Entrar</button>
                 </div>
                 <div id="cadastro">
                     <a href="registro.html">Cadastre-se</a>

@@ -11,6 +11,7 @@ body{
 #head{
     background-color: rgb(6,24,72);
     text-align: center;
+    box-shadow: 0px 4px 10px rgb(29, 29, 29);
 }
 #centro{
     display: flex;
@@ -26,7 +27,9 @@ body{
     height: 400px;
     background-color: rgba(1,70,174,255);
     color: white;
-
+}
+#erroUsuario{
+    color: red;
 }
 #footer{
     display: flex;
@@ -38,6 +41,7 @@ body{
     background-color: rgb(6,24,72);
     text-align: center;
     padding-bottom: 10px;
+    box-shadow: 0px -4px 10px rgb(29, 29, 29);
 }
 #email{
     display: flex;

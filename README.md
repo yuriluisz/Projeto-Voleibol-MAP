@@ -1,6 +1,6 @@
 # Voleiball-Map Protótipo 🏐🗺️
 
-O Voleibol-Map Protótipo é uma aplicação simples desenvolvida para apresentar aos contratantes como seria um mapa interativo para localização de quadras de voleibol.
+Este é um site com o intuito de apresentar para a empresa Voleibol-Map, ainda em desenvolvimento e servindo apenas de demonstração.
 
 ## Objetivo 🎯
 
